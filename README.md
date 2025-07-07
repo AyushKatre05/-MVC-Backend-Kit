@@ -56,10 +56,6 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## 📬 Author
-Zuber Khan – [@zkcreations](https://github.com/zuberkhan01st)  
-Maintained by **ZK Creations**
-
 ## 📦 NPM Package
 View on NPM:  
 👉 https://www.npmjs.com/package/node-mvc-starter
